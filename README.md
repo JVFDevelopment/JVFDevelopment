@@ -36,8 +36,7 @@ As a passionate developer with expertise in various programming languages, frame
 ![Unity](https://img.shields.io/badge/-Unity-100000?style=flat-square&logo=unity&logoColor=ffffff)
 ![Steam](https://img.shields.io/badge/-Steam-000000?style=flat-square&logo=steam&logoColor=ffffff)
 
-### Socials
-### Socials
+### Contact Me
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=ffffff)](mailto:Joseph.V.Fiore@gmail.com)
 [![Discord](https://img.shields.io/badge/-Discord-7289DA?style=flat-square&logo=discord&logoColor=ffffff)](https://discordapp.com/users/MistrKoala)
 [![X (Twitter)](https://img.shields.io/badge/-X-1DA1F2?style=flat-square&logo=x&logoColor=ffffff)](https://twitter.com/JVFDevelopment)
