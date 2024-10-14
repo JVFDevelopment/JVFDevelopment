@@ -1,20 +1,20 @@
-# Hi, I'm Joseph! 👋
-
+# Hi, I'm Joseph! 👋  
 ![Profile Views](https://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
-
-## 🚀 Always strive to improve, no matter how good you think you are.
+## 🚀 Always strive to improve, no matter how good you think you are.  
+*“Life is a journey, not a destination.”*  
 🌍 Based in [London, England]
 
-### 💻 Explore My Work: [Portfolio](https://jvfiore.netlify.app)
+### 💻 Explore My Work: [Portfolio](https://jvfiore.netlify.app)  
 ✉️ Contact me at: [joseph.v.fiore@gmail.com](mailto:joseph.v.fiore@gmail.com)
 
 ### 🌟 Currently working on:
-- BSc in Software Enginerring and Data Analysis with [St Mary's University]
+- BSc in Software Engineering and Data Analysis with [St Mary's University]
 - Exploring AI to enhance user experiences
 
 ### 🌐 Connect With Me:
-- [Discord](https://discord.gg/mistrkoala)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=white)](https://discord.gg/mistrkoala)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://x.com/jvfdevelopment)
 
 ---
 
@@ -30,4 +30,5 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
-Feel free to reach out or connect if you're interested in collaborating or just want to chat about tech!
+
+✨ *“Coding is like humor. If you have to explain it, it’s bad.”* ✨
