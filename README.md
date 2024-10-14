@@ -1,37 +1,32 @@
-# Hi there, I'm Joseph 👋
+# Hi, I'm Joseph! 👋
 
-## About Me
-- 🌱 | Always Learning.
-- 💼 | I’m a Software Engineer Student at St Mary's University.
-- 🔗 | Site: [jvfiore.netlify.app](htpps://jvfiore.netlify.app)
+![Profile Views Counter](https://your-image-url-here)
+
+## 🚀 Coding like it’s 2050, but debugging like it’s 1999
+🌍 Based in [Your Location]
+
+### 💻 Explore My Work: [Portfolio](https://jvfiore.netlify.app)
+✉️ Contact me at: [joseph.v.fiore@gmail.com](mailto:joseph.v.fiore@gmail.com)
+
+### 🌟 Currently working on:
+- Bsc in Software Engineering with [St Mary's University]
+- Exploring AI to enhance user experiences
+
+### ⚡ Always diving into new tech to stay ahead!
+
+![GitHub Contribution Grid Snake Animation](https://your-animation-url-here)
+
+### 🌐 Let's Stay Connected:
+- [Discord](https://discord.gg/mistrkoala)
+---
+
+### 💼 Technical Skills:
+- **Languages:** TypeScript, JavaScript, Python, PHP
+- **Frameworks:** React, Next.js, Vue.js, Node.js, Express.js
+- **Databases:** MySQL, PostgreSQL, MongoDB, Firebase
+- **Tools & Technologies:** Git, Docker, GraphQL, REST APIs, SEO, Google Analytics
+- **Animation & Design:** GSAP, Three.js, Framer Motion, PixiJS
 
 
 
-
-## About Me
-As a passionate developer with expertise in various programming languages, frameworks, and tools, I continuously strive to enhance my skills and deliver high-quality projects.
-
-### Technical Skills
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff) 
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=ffffff) 
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000000) 
-![Lua](https://img.shields.io/badge/-Lua-2C2D72?style=flat-square&logo=lua&logoColor=ffffff) 
-![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=ffffff) 
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=ffffff) 
-![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=csharp&logoColor=ffffff) 
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=ffffff) 
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=ffffff) 
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=ffffff) 
-![Discord.js](https://img.shields.io/badge/-Discord.js-5865F2?style=flat-square&logo=discord&logoColor=ffffff)
-![PyCord](https://img.shields.io/badge/-PyCord-ff9c1b?style=flat-square&logo=python&logoColor=ffffff)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=ffffff) 
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=ffffff) 
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
-![Roblox Studio](https://img.shields.io/badge/-Roblox%20Studio-FF0000?style=flat-square&logo=roblox&logoColor=ffffff)
-![Unity](https://img.shields.io/badge/-Unity-100000?style=flat-square&logo=unity&logoColor=ffffff)
-![Steam](https://img.shields.io/badge/-Steam-000000?style=flat-square&logo=steam&logoColor=ffffff)
-
-### Contact Me
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=ffffff)](mailto:Joseph.V.Fiore@gmail.com)
-[![Discord](https://img.shields.io/badge/-Discord-7289DA?style=flat-square&logo=discord&logoColor=ffffff)](https://discordapp.com/users/MistrKoala)
-[![X (Twitter)](https://img.shields.io/badge/-X-1DA1F2?style=flat-square&logo=x&logoColor=ffffff)](https://twitter.com/JVFDevelopment)
+Feel free to reach out or connect if you're interested in collaborating or just want to chat about tech!
