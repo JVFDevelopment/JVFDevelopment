@@ -14,7 +14,8 @@
 
 ### 🌐 Connect With Me:
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=white)](https://discord.gg/mistrkoala)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://x.com/jvfdevelopment)
+[![X](https://img.shields.io/badge/X-1DA1F2?style=flat&logo=x&logoColor=white)](https://x.com/jvfdevelopment)
+
 
 ---
 
