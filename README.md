@@ -3,7 +3,7 @@
 ## About Me
 - 🌱 | Always Learning.
 - 💼 | I’m a Software Engineer Student at St Mary's University.
-- 🔗 | [My Site](htpps://jvfiore.netlify.app)
+- 🔗 | Site: [jvfiore.netlify.app](htpps://jvfiore.netlify.app)
 
 
 
