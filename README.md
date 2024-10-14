@@ -1,6 +1,7 @@
 # Hi, I'm Joseph! 👋
 
-![Profile Views Counter](https://your-image-url-here)
+![Profile Views](https://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
+
 
 ## 🚀 Always strive to improve, no matter how good you think you are.
 🌍 Based in [London, England]
