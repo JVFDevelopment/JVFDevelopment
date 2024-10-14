@@ -1,8 +1,9 @@
 # Hi there, I'm Joseph 👋
 
 ## About Me
-- 🌱 Currently learning Python and Rust.
-- 💼 I’m a Software Engineer Student at St Mary's University.
+- 🌱 | Always Learning.
+- 💼 | I’m a Software Engineer Student at St Mary's University.
+- 🔗 | htpps://jvfiore.netlify.app
 
 
 
