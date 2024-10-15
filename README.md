@@ -10,7 +10,7 @@
 
 ### 🌟 Currently working on:
 - BSc in Software Engineering and Data Analysis with [St Mary's University]
-- Exploring AI to enhance user experiences
+- Runix: My own programming language heavily inspired by JavaScript
 
 ### 🌐 Connect With Me:
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=white)](https://discord.gg/mistrkoala)
