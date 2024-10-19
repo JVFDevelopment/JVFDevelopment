@@ -7,7 +7,7 @@
 
 ### 💼 Current Focus:
 - **BSc in Software Engineering & Data Analysis** – [St Mary's University]
-- **Building Runix** – A programming language inspired by C.
+- **Building Runix** – A programming language for game development written in c.
 
 ### 💻 Explore My Work:  
 [![Portfolio](https://img.shields.io/badge/Portfolio-00C7B7?style=flat&logo=netlify&logoColor=white)](https://jvfiore.netlify.app)
