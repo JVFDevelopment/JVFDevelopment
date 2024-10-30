@@ -102,7 +102,16 @@
 - **Runix:** Developing my own programming language, focused on game development and software features.
 - **Game Development:** Actively working with **Godot** and **Roblox** to explore new worlds and experiences.
 
+---
 
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" /> Github Stats 
+[![Joseph's github stats](https://bad-apple-github-readme.vercel.app/api?username=jvfdevelopment&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=blue-green&title_color=00b3ff)](#)
+ 
+ [![Top languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=jvfdevelopment&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff)](#)
+
+
+
+---
 
 ## <div><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20with%20Meridians.png" alt="Globe with Meridians Emoji" width="30px" align="center" /> Let's Connect:</div>
 
