@@ -6,7 +6,7 @@
 
 - 🎓 Pursuing a **BSc in Computer Science** at **St Mary’s University**.
 - 📍 Based in **London, England**
-- 💼 Currently building **SerenityHub**, a mental health app designed for impactful support.
+- 💼 Currently building **CarerConnect**, a mental health app designed for impactful support.
 - 🎮 Creating **Runix**, a programming language tailored for game development and web applications.
 - 🚀 Always diving into **new tech** to fuel my journey in software development.
 
@@ -80,7 +80,7 @@
 
 ## Projects
 
-- **SerenityHub:** A mental health support platform offering resources, tracking, and community support.
+- **CarerConnect:** A mental health support platform for carers offering resources, tracking, and community support.
 - **Runix:** Developing my own programming language, focused on game development and software features.
 - **Game Development:** Actively working with **Godot** and **Roblox** to explore new worlds and experiences.
 
