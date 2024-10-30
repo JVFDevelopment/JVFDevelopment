@@ -15,30 +15,24 @@
 ## Skills & Tools
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Code-Python-blue?style=flat-square&logo=python&logoColor=white" alt="Python Badge"/>
-  <img src="https://img.shields.io/badge/Code-Rust-DEA584?style=flat-square&logo=rust&logoColor=white" alt="Rust Badge"/>
-  <img src="https://img.shields.io/badge/Code-JavaScript-yellow?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript Badge"/>
-  <img src="https://img.shields.io/badge/Code-Lua-2C2D72?style=flat-square&logo=lua&logoColor=white" alt="Lua Badge"/>
-  <img src="https://img.shields.io/badge/Code-TypeScript-blue?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript Badge"/>
-</p>
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Framework-React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React Badge"/>
-  <img src="https://img.shields.io/badge/Framework-Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite Badge"/>
-  <img src="https://img.shields.io/badge/Database-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB Badge"/>
-</p>
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Tools-GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub Badge"/>
-  <img src="https://img.shields.io/badge/Tools-VS%20Code-0078D4?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code Badge"/>
-  <img src="https://img.shields.io/badge/Tools-npm-CB3837?style=flat-square&logo=npm&logoColor=white" alt="npm Badge"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge"/>
+  <img src="https://img.shields.io/badge/Rust-DEA584?style=for-the-badge&logo=rust&logoColor=black" alt="Rust Badge"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript Badge"/>
+  <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" alt="Lua Badge"/>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript Badge"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React Badge"/>
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite Badge"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB Badge"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
+  <img src="https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code Badge"/>
+  <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm Badge"/>
 </p>
 
 ---
 
 ## Projects
 
-- **CarerConnect:** A mental health support platform for carers offering resources, tracking, and community support.
+- **SerenityHub:** A mental health support platform offering resources, tracking, and community support.
 - **Runix:** Developing my own programming language, focused on game development and software features.
 - **Game Development:** Actively working with **Godot** and **Roblox** to explore new worlds and experiences.
 
