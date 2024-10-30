@@ -95,5 +95,5 @@
 ## <div><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20with%20Meridians.png" alt="Globe with Meridians Emoji" width="30px" align="center" /> Let's Connect:</div>
 
 - 💬 Discord: **MistrKoala**
-- 🌐 GitHub Profiles: [JVFDevelopment](https://github.com/JVFDevelopment) | [MistrKoala](https://github.com/MistrKoala)
-- 📫 Email: [mistrkoaladevelopment@gmail.com](mailto:mistrkoaladevelopment@gmail.com)
+- 🌐 GitHub Profiles: [JVFDevelopment](https://github.com/JVFDevelopment) | [CodeWithKoala](https://github.com/CodeWithKoala)
+- 📫 Email: [joseph.v.fiore@gmail.com](mailto:joseph.v.fiore@gmail.com)
