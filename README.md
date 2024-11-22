@@ -12,8 +12,8 @@
 
 ---
 
-- 🎓 Pursuing a **BSc in Computer Science** at **St Mary’s University**.
-- 📍 Based in **London, England**
+- 🎓 Pursuing a **BSc in Computer Science(ML and AI)** at **St Mary’s University**.
+- 📍 12/15 Months into Internship at **Google**
 - 💼 Currently building **CarerConnect**, a mental health app designed for impactful support.
 - 🎮 Creating **Runix**, a programming language tailored for game development and web applications.
 - 🚀 Always diving into **new tech** to fuel my journey in software development.
