@@ -8,17 +8,6 @@
   </picture>
 </div>
 
-<p align="center">A developer passionate about creating, innovating, and crafting impactful projects in code.</p>
-
----
-
-- 🎓 **BSc in Data Science**, pursuing a second degree in **AI/ML** at **St. Mary’s University**.
-- 📍 12/15 Months into Internship at **Google**.
-- 💼 Currently building **CarerConnect**, a mental health app fostering support and resilience.
-- 🎮 Developing **Runix**, a programming language tailored for game development and web apps.
-- 🚀 Always exploring **new technologies** to refine my skills and expand my knowledge.# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="30px" alt="Rocket Emoji"/> Hello, I'm Joseph!
-
-<p align="center">A developer passionate about creating, innovating, and crafting impactful projects in code.</p>
 
 ---
 
