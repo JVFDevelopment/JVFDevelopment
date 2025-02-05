@@ -75,7 +75,7 @@
 
 ## 🌐 Connect with Me
 
-- 💬 Discord: **RustPioneer**
+- 💬 Discord: **sndkoala**
 - 📫 Email: [joseph.v.fiore@gmail.com](mailto:joseph.v.fiore@gmail.com)
 
 
