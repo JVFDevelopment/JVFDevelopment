@@ -11,8 +11,7 @@
 
 ---
 
-- 🎓 **BSc in Data Science**, pursuing a second degree in **AI/ML** at **St. Mary’s University**.
-- 📍 12/15 Months into Internship at **Google**.
+- 🎓 Pursuing a second degree in **Software Engineering** at **St. Mary’s University**.
 - 💼 Currently building **CarerConnect**, a mental health app fostering support and resilience.
 - 🎮 Developing **Runix**, a programming language tailored for game development and web apps.
 - 🚀 Always exploring **new technologies** to refine my skills and expand my knowledge.
