@@ -60,8 +60,7 @@
 
 ## 🚀 Projects
 
-- **[CarerConnect](https://github.com/JVFDevelopment/CarerConnect):** A mental health platform offering tools and resources for carers.
-- **[Runix](https://github.com/JVFDevelopment/Runix):** A custom programming language tailored for game development.
+- **[Runix](https://github.com/JVFDevelopment/runix-lang):** A custom programming language tailored for game development.
 - **Game Dev:** Exploring **Roblox** and **Godot** to create immersive experiences.
 
 ---
