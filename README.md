@@ -75,7 +75,7 @@
 ## 🌐 Connect with Me
 
 - 💬 Discord: **mistrkoala.**
-- 📫 Email: [joseph.v.fiore@gmail.com](mailto:joseph.v.fiore@gmail.com)
+- 📫 Email: [mistrkoaladevelopment@gmail.com](mailto:mistrkoaladevelopment@gmail.com)
 
 
 ---
