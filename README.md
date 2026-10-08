@@ -95,7 +95,7 @@ while curious {
 
 - **Discord:** `koalaswrld`
 - **Email:** [mistrkoaladevelopment@gmail.com](mailto:mistrkoaladevelopment@gmail.com)
-- **LinkedIn:** [joseph-fiore-9b4996332](https://www.linkedin.com/in/joseph-fiore-9b4996332/)
+- **LinkedIn:** [Joseph Fiore] (https://www.linkedin.com/in/joseph-fiore-9b4996332?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 - **X:** [@JVFDevelopment](https://x.com/JVFDevelopment)
 
 <p align="center">
