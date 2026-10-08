@@ -13,7 +13,7 @@
 
 - 🎓 Pursuing a degree in **Software Engineering** at **St. Mary’s University**.
 - 💼 Currently building **CarerConnect**, a mental health app fostering support and resilience.
-- 🎮 Developing **Runix**, a programming language tailored for game development and web apps.
+- 🎮 Developing **Severance**, an incredibly advanced open world MMORPG on Roblox.
 - 🚀 Always exploring **new technologies** to refine my skills and expand my knowledge.
 
 ---
@@ -51,7 +51,7 @@
 
 ### Tools & Platforms
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078  D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/PyCharm-21D789?style=for-the-badge&logo=pycharm&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
@@ -74,7 +74,7 @@
 
 ## 🌐 Connect with Me
 
-- 💬 Discord: **mistrkoala.**
+- 💬 Discord: **koalaswrld**
 - 📫 Email: [mistrkoaladevelopment@gmail.com](mailto:mistrkoaladevelopment@gmail.com)
 
 
