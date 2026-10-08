@@ -14,7 +14,6 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/joseph-fiore-9b4996332/"><img src="https://skillicons.dev/icons?i=linkedin" height="38" alt="LinkedIn" /></a>&nbsp;&nbsp;
-  <a href="https://x.com/JVFDevelopment"><img src="https://skillicons.dev/icons?i=twitter" height="38" alt="X" /></a>&nbsp;&nbsp;
   <a href="mailto:mistrkoaladevelopment@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="38" alt="Email" /></a>
 </p>
 
