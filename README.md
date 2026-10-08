@@ -96,7 +96,6 @@ while curious {
 - **Discord:** `koalaswrld`
 - **Email:** [mistrkoaladevelopment@gmail.com](mailto:mistrkoaladevelopment@gmail.com)
 - **LinkedIn:** [Joseph Fiore](https://www.linkedin.com/in/joseph-fiore-9b4996332/)
-- **X:** [@JVFDevelopment](https://x.com/JVFDevelopment)
 
 <p align="center">
   <sub>Thanks for stopping by · <code>❯ exit 0</code></sub><br /><br />
